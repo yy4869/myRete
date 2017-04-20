@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1492503666 source:d:\forwork\c++\myrete\main.cpp
+	<iostream>
+	"fact.h"
+	"test.h"
+
+1492500594 source:d:\forwork\c++\myrete\fact.cpp
+	<iostream>
+	"fact.h"
+	"help.h"
+
+1492570406 d:\forwork\c++\myrete\fact.h
+	<string>
+	<map>
+
+1492500563 source:d:\forwork\c++\myrete\help.cpp
+	<iostream>
+	"help.h"
+
+1492498729 d:\forwork\c++\myrete\help.h
+	<string>
+	<vector>
+
+1492590519 d:\forwork\c++\myrete\rete.h
+	<windows.h>
+	<string>
+	<list>
+	<map>
+	<vector>
+	"fact.h"
+	"thread.h"
+
+1492501557 d:\forwork\c++\myrete\test.h
+	"rete.h"
+
+1492516551 source:d:\forwork\c++\myrete\test.cpp
+	<iostream>
+	"test.h"
+
+1492514356 source:d:\forwork\c++\myrete\rete.cpp
+	<string>
+	<iostream>
+	"rete.h"
+
+1492514937 d:\forwork\c++\myrete\thread.h
+
+1492515093 d:\forwork\c++\myrete\setup.h
+
